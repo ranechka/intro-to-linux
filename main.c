@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void foo(void) {
+    std::cout << "Hello\n";
 }
 
 
